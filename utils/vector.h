@@ -1,6 +1,6 @@
 #ifndef _UTILS_VECTOR_H
 #define _UTILS_VECTOR_H
-
+#define
 #define vector_template(data_t, vector)                     \
     struct {                                                \
         int capacity;                                       \
